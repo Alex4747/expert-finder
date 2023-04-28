@@ -15,3 +15,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+label, button {
+  color: white;
+}
+
+.wrapper {
+  width: 700px;
+  border-radius: 15px;
+  background-color: #1E1E1E;
+  margin: 10% auto;
+}
